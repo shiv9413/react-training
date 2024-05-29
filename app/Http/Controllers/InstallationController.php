@@ -83,7 +83,8 @@ class InstallationController extends Controller
         }
     }
 
-    /* Write some code here that will use the Guzzel Library to fetch the shop object from shopify API
+    /* 
+        Write some code here that will use the Guzzel Library to fetch the shop object from shopify API
          If it success with 200 status then that means its valid and we can return true; 
     */
 
