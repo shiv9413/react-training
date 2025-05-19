@@ -7,6 +7,11 @@ import Second from './components/19-05-2025/Second';
 import Third from './components/19-05-2025/Third';
 import Forth from './components/19-05-2025/Forth';
 import Fivth from './components/19-05-2025/Fivth';
+import Six from './components/19-05-2025/Six';
+import Seven from './components/19-05-2025/Seven';
+import Eight from './components/19-05-2025/Eight';
+import Nine from './components/19-05-2025/Nine';
+import Ten from './components/19-05-2025/Ten';
 
 function App() {
   return (
@@ -16,6 +21,11 @@ function App() {
       <Third />
       <Forth />
       <Fivth />
+      <Six />
+      <Seven />
+      <Eight />
+      <Nine />
+      <Ten />
     </div>
     );
 }
