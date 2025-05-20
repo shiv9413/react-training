@@ -29,11 +29,11 @@ function App() {
       <First name="Shiv" />
       <Second name="Gora" />
       <Third name="GAGAN DEEP"/>
-      <Forth />
-      <Fivth />
-      <Six />
-      <Seven />
-      <Eight />
+      <Forth work="Ship Station"/>
+      <Fivth number="Sahil hai 5th number pe"/>
+      <Six name="JAMES BOND"/>
+      <Seven value="Not Avaiable"/>
+      <Eight name="Jatt velli su purana"/>
       <Nine />
       <Ten />
      {/* <First1 />
