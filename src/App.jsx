@@ -12,11 +12,12 @@ import Seven from './components/19-05-2025/Seven';
 import Eight from './components/19-05-2025/Eight';
 import Nine from './components/19-05-2025/Nine';
 import Ten from './components/19-05-2025/Ten';
+import First1 from './components/20-05-2025/First1';
 
 function App() {
   return (
     <div>
-      <First />
+      {/*<First />
       <Second />
       <Third />
       <Forth />
@@ -25,7 +26,8 @@ function App() {
       <Seven />
       <Eight />
       <Nine />
-      <Ten />
+      <Ten />*/}
+      <First1 />
     </div>
     );
 }
