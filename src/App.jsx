@@ -20,6 +20,8 @@ import Fivth1 from './components/20-05-2025/Fivth1';
 import Sixth1 from './components/20-05-2025/Sixth1';
 import Seven1 from './components/20-05-2025/Seven1';
 import Eight1 from './components/20-05-2025/Eight1';
+import Nine1 from './components/20-05-2025/Nine1';
+import Ten1 from './components/20-05-2025/Ten1';
 
 function App() {
   return (
@@ -42,6 +44,8 @@ function App() {
       <Sixth1 />
       <Seven1 />
       <Eight1 />
+      <Nine1 />
+      <Ten1 />
     </div>
     );
 }
