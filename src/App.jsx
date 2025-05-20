@@ -26,17 +26,17 @@ import Ten1 from './components/20-05-2025/Ten1';
 function App() {
   return (
     <div>
-      {/*<First />
-      <Second />
-      <Third />
+      <First name="Shiv" />
+      <Second name="Gora" />
+      <Third name="GAGAN DEEP"/>
       <Forth />
       <Fivth />
       <Six />
       <Seven />
       <Eight />
       <Nine />
-      <Ten />*/}
-      <First1 />
+      <Ten />
+     {/* <First1 />
       <Second1 />
       <Third1 />
       <Forth1 />
@@ -45,7 +45,7 @@ function App() {
       <Seven1 />
       <Eight1 />
       <Nine1 />
-      <Ten1 />
+      <Ten1 />*/}
     </div>
     );
 }
