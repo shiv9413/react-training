@@ -19,6 +19,7 @@ import Forth1 from './components/20-05-2025/Forth1';
 import Fivth1 from './components/20-05-2025/Fivth1';
 import Sixth1 from './components/20-05-2025/Sixth1';
 import Seven1 from './components/20-05-2025/Seven1';
+import Eight1 from './components/20-05-2025/Eight1';
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
       <Fivth1 />
       <Sixth1 />
       <Seven1 />
+      <Eight1 />
     </div>
     );
 }
