@@ -34,8 +34,8 @@ function App() {
       <Six name="JAMES BOND"/>
       <Seven value="Not Avaiable"/>
       <Eight name="Jatt velli su purana"/>
-      <Nine />
-      <Ten />
+      <Nine name="yogesh singh"/>
+      <Ten value="no Name"/>
      {/* <First1 />
       <Second1 />
       <Third1 />
