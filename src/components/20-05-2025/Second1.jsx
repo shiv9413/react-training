@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Second1 = () => <h1>This is advanced second method</h1>;
+const Second = ({chance}) => <h1>This is second chance ,{chance}</h1>
 
-export default Second1;
+export default Second;

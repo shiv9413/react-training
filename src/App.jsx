@@ -36,16 +36,16 @@ function App() {
       <Eight name="Jatt velli su purana"/>
       <Nine name="yogesh singh"/>
       <Ten value="no Name"/>
-     {/* <First1 />
-      <Second1 />
-      <Third1 />
-      <Forth1 />
-      <Fivth1 />
+      <First1 name="GaganD"/>
+      <Second1 chance="to agagn deep"/>
+      <Third1 name="Yogesh Rana"/>
+      <Forth1 name="JATA"/>
+      <Fivth1 option="OPIO"/>
       <Sixth1 />
       <Seven1 />
       <Eight1 />
       <Nine1 />
-      <Ten1 />*/}
+      <Ten1 />
     </div>
     );
 }
