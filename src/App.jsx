@@ -16,6 +16,9 @@ import First1 from './components/20-05-2025/First1';
 import Second1 from './components/20-05-2025/Second1';
 import Third1 from './components/20-05-2025/Third1';
 import Forth1 from './components/20-05-2025/Forth1';
+import Fivth1 from './components/20-05-2025/Fivth1';
+import Sixth1 from './components/20-05-2025/Sixth1';
+import Seven1 from './components/20-05-2025/Seven1';
 
 function App() {
   return (
@@ -34,6 +37,9 @@ function App() {
       <Second1 />
       <Third1 />
       <Forth1 />
+      <Fivth1 />
+      <Sixth1 />
+      <Seven1 />
     </div>
     );
 }
