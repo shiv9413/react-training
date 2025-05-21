@@ -41,11 +41,11 @@ function App() {
       <Third1 name="Yogesh Rana"/>
       <Forth1 name="JATA"/>
       <Fivth1 option="OPIO"/>
-      <Sixth1 />
-      <Seven1 />
-      <Eight1 />
-      <Nine1 />
-      <Ten1 />
+      <Sixth1 name="James Bond Evert"/>
+      <Seven1 name="GAME CHANGE"/>
+      <Eight1 contact="8523697410"/>
+      <Nine1 name="OPPS MOMET"/>
+      <Ten1 name="OPPS MOMET"/>
     </div>
     );
 }

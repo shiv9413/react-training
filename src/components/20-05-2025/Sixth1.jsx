@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Mine = () => <h1>This is sixth1 thing</h1>;
+const Mine = ({name}) => <h1>This is sixth code evert {name}</h1>
 
 export default Mine;

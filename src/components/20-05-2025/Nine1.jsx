@@ -1,5 +1,5 @@
 import React from 'react';
 
-const mine = () => <h1>Hello this is nine function</h1>;
+const Mine = ({name}) => <h1>My Contact Number is {name}</h1>
 
-export default mine;
+export default Mine;

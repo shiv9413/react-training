@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Jatt = () => <h1>This is seven one</h1>;
+const Mine = ({name}) => <h1>Its is seven {name}</h1>
 
-export default Jatt;
+export default Mine;

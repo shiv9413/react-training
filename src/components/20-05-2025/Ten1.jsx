@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Mine = () => <h1>This is tenth function</h1>;
+const Mine = ({name}) => <h1>My Contact Number is {name}</h1>
 
 export default Mine;
