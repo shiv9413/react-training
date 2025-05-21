@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Jatt = ({option}) => {
-	return <div className="card">{option}</div>
+const Card = ({children}) => {
+	return <div className="card">{children}</div>
 }
 
-export default Jatt;
+export default Card;

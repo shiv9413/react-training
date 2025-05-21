@@ -40,12 +40,12 @@ function App() {
       <Second1><h1>Hello Bro HOw are you</h1></Second1>
       <Third1><h1>Wow it is awesome thing i tried</h1></Third1>
       <Forth1><h2>WOW WOW WOW</h2></Forth1>
-      <Fivth1 option="OPIO"/>
-      <Sixth1 name="James Bond Evert"/>
-      <Seven1 name="GAME CHANGE"/>
-      <Eight1 contact="8523697410"/>
-      <Nine1 name="OPPS MOMET"/>
-      <Ten1 name="OPPS MOMET"/>
+      <Fivth1><h2>WOW WOW WOW</h2></Fivth1>
+      <Sixth1><h2>WOW WOW WOW</h2></Sixth1>
+      <Seven1><h2>WOW WOW WOW</h2></Seven1>
+      <Eight1><h2>WOW WOW WOW</h2></Eight1>
+      <Nine1><h2>WOW WOW WOW</h2></Nine1>
+      <Ten1><h2>WOW WOW WOW</h2></Ten1>
     </div>
     );
 }

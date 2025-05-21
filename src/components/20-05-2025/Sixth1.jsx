@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Mine = ({name}) => {
-	return <div className="card"></div>
+const Mine = ({children}) => {
+	return <div className="card">{children}</div>
 }
 
 export default Mine;
