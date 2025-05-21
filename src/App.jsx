@@ -36,8 +36,8 @@ function App() {
       <Eight name="Jatt velli su purana"/>
       <Nine name="yogesh singh"/>
       <Ten value="no Name"/>
-      <First1 name="GaganD"/>
-      <Second1 chance="to agagn deep"/>
+      <First1><p style={{color:"red"}}>This is 3 setp every i used</p></First1>
+      <Second1><h1>Hello Bro HOw are you</h1></Second1>
       <Third1 name="Yogesh Rana"/>
       <Forth1 name="JATA"/>
       <Fivth1 option="OPIO"/>
