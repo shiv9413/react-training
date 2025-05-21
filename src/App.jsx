@@ -38,8 +38,8 @@ function App() {
       <Ten value="no Name"/>
       <First1><p style={{color:"red"}}>This is 3 setp every i used</p></First1>
       <Second1><h1>Hello Bro HOw are you</h1></Second1>
-      <Third1 name="Yogesh Rana"/>
-      <Forth1 name="JATA"/>
+      <Third1><h1>Wow it is awesome thing i tried</h1></Third1>
+      <Forth1><h2>WOW WOW WOW</h2></Forth1>
       <Fivth1 option="OPIO"/>
       <Sixth1 name="James Bond Evert"/>
       <Seven1 name="GAME CHANGE"/>
