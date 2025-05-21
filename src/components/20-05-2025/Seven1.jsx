@@ -1,5 +1,7 @@
 import React from 'react';
 
-const Mine = ({name}) => <h1>Its is seven {name}</h1>
+const Mine = ({name}) => {
+	<div className="card">Its is seven {name}</div>
+}
 
 export default Mine;
